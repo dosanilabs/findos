@@ -26,3 +26,14 @@ Remove the nearby “download link will be available” notice and update FAQ wo
 - This is a static website: no backend, user analytics, or third-party tracking scripts.
 - Google Fonts is used for typography; it may require internet access.
 - Keep Android signing keys and private credentials **out of the repository**.
+
+
+## Android APK download
+Official v1.0 APK: https://github.com/dosanilabs/findos/releases/download/v1.0.0/findos1.0.apk
+The website download button links directly to this release asset.
+
+## Updated screenshots and app themes
+
+This version includes genuine Android screenshots showing sample balances, transactions, analytics, Udhar, budgets, and the theme settings screen. All screenshots live in `assets/`.
+
+The APK button links to `https://github.com/dosanilabs/findos/releases/download/v1.0.0/findos1.0.apk`.
