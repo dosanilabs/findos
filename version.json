@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/dosanilabs/findos/releases/download/v1.0.1/FinDos-v1.0.1.apk",
-  "releaseNotes": "Initial FinDos release"
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/dosanilabs/findos/releases/download/v1.0.2/FinDos-v1.0.2.apk",
+  "releaseNotes": "Performance improvements, bug fixes, and in-app update support."
 }
